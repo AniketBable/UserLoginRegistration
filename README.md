@@ -22,7 +22,7 @@
   - SELECT THE APACHE TOMCAT ROOT FOLDER PREVIOUS TO BIN -> NEXT -> ADDALL -> FINISH
 
 2. Configure Database Create Table(Refer SQL Command given below) :
-  - Create database
+  - Create Database
   - Create Table
   
 3. Fetch/Clone/Pull Project from git
@@ -42,6 +42,6 @@
 
 5. Run the Project on server.
 
-###CONGRATS YOUR DONE!!!!!!!!
+###CONGRATS YOU ARE DONE!!!!!!!!
 
   
